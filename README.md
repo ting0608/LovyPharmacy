@@ -24,7 +24,7 @@ Lodestar theme
 
 **4.1** Lovy pharmacy (main)
 **4.2** Lovy care
-**4.3** Order now enjoy all these benefits
+**4.3** Order now enjoy all these benefits (this one using **Image Hover Effects Ultimate**)
 **4.4** Testimonials
 
 hubspot plugin use as chat bot at bottom right corner, 1 welcome msg will be shown(include phone number)
@@ -39,3 +39,21 @@ refer to https://docs.google.com/document/d/1jMQiXAW8Y0aHLuORaOmstxE7Vfw8dPDM9Bn
 parallax section block used as info banner, time-line under it (cool timeline plugin).
 
 # 6 Services
+**photor gallery**, with mouse track hover, make sure all those images link and clickable(pending)
+
+# 7 Products page
+link to d2u, show all those product  images and name
+**1** general link to lovy pharmacy, **2** specific link to keywords(BP, nutridos), **all** images link
+images using gallery again to make hover effects
+
+# 8 Events
+2 width long banner (showing up promotions sales), concept is that button should lead to posts on social media for customers getting more details.
+
+# 9 Blog
+Use blog designer pack plugin, 3 columns each row
+
+# 10 Contact
+forminator form, company details, and each braches details in columns
+
+# 11 Partnerships
+partnership images in gallery (without hover effect), forminator form, map press to mark and let user seee all the branch markers on the map
