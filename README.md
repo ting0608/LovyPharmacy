@@ -56,4 +56,7 @@ Use blog designer pack plugin, 3 columns each row
 forminator form, company details, and each braches details in columns
 
 # 11 Partnerships
-partnership images in gallery (without hover effect), forminator form, map press to mark and let user seee all the branch markers on the map
+partnership images in gallery (without hover effect)
+https://github.com/ting0608/LovyPharmacy/blob/main/screenshot/Screenshot%202022-06-10%20090133.png
+forminator form
+map press to mark and let user seee all the branch markers on the map
