@@ -61,5 +61,5 @@ partnership images in gallery (without hover effect)
 
 forminator form
 
-map press to mark and let user seee all the branch markers on the map
+map press to mark and let user seee all the branch markers on the map <br />
 <img src="https://github.com/ting0608/LovyPharmacy/blob/main/screenshot/Screenshot%202022-06-10%20090133.png" width="300"/>
