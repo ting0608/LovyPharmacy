@@ -57,7 +57,7 @@ forminator form, company details, and each braches details in columns
 
 # 11 Partnerships
 partnership images in gallery (without hover effect) <br />
-<img src="https://github.com/ting0608/LovyPharmacy/blob/main/screenshot/Screenshot%202022-06-10%20090133.png" width="300"/>
+<img src="https://github.com/ting0608/LovyPharmacy/blob/main/screenshot/Screenshot%202022-06-10%20090255.png" width="300"/>
 
 forminator form <br />
 <img src="https://github.com/ting0608/LovyPharmacy/blob/main/screenshot/Screenshot%202022-06-10%20090240.png" width="300"/>
